@@ -107,13 +107,13 @@ const config = {
                 label: 'Inicio',
                 to: '/docs/intro',
               },
-                            {
-                label: 'Conocimiento general',
-                to: '/docs/general-knowledge',
+              {
+                label: 'Conocimiento común',
+                to: '/docs/conocimiento-comun',
               },
               {
-                label: 'Raw feedback',
-                to: '/docs/raw-feedback',
+                label: 'Feedback dado en clase',
+                to: '/docs/feedback-clase',
               },
             ],
           },
