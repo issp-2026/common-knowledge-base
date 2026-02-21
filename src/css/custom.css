@@ -28,3 +28,58 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+/* Cards grid for docs category index */
+.cards-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1rem;
+  margin-top: 1rem;
+}
+.doc-card {
+  background: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 6px 18px rgba(15, 23, 42, 0.06);
+  overflow: hidden;
+}
+.doc-card__link {
+  display: flex;
+  gap: 12px;
+  padding: 16px;
+  text-decoration: none;
+  color: inherit;
+  align-items: center;
+}
+.doc-card__icon {
+  font-size: 32px;
+  width: 56px;
+  height: 56px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  border-radius:8px;
+  background: rgba(0,0,0,0.03);
+}
+.doc-card__title {
+  margin: 0 0 4px 0;
+  font-size: 1.05rem;
+}
+.doc-card__desc {
+  margin: 0;
+  color: var(--ifm-color-gray-700);
+  font-size: 0.95rem;
+  max-width: 36rem;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+@media (prefers-color-scheme: dark) {
+  .doc-card {
+    box-shadow: 0 6px 18px rgba(0,0,0,0.45);
+    background: #0f1724; /* soft dark, not pure black */
+  }
+  .doc-card__desc { color: #cbd5e1; }
+}

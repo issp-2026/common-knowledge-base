@@ -1,0 +1,11 @@
+{
+  "label": "Conocimiento común",
+  "position": 2,
+  "collapsed": false,
+  "link": {
+    "type": "generated-index",
+    "title": "Conocimiento común",
+    "description": "Colección de documentos y recursos sobre conocimiento común.",
+    "slug": "/conocimiento-comun"
+  }
+}
