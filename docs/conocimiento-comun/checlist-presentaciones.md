@@ -9,8 +9,7 @@
 - [ ] **Stack Tecnológico**
 - [ ] **CI/CD Explícito** 
 - [ ] **ALM (Alto nivel)**
-- [ ] **Las 5 Entregas:** Qué trae cada incremento de valor y qué queda fuera por prioridad.
-- [ ] **Congelar Entregas:** Definición de rama estable/tag y criterios antes de desplegar.
+- [ ] **Despliegue**
 - [ ] **Metodología**
 - [ ] **Estado del Sprint**
 - [ ] **Usuarios Piloto**
