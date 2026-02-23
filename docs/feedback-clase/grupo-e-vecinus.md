@@ -1,0 +1,186 @@
+---
+title: Grupo E - Vecinus
+description: Feedback proporcionado al grupo E Vecinus. 
+---
+
+En esta página se encuentra el feedback recogido por el grupo E - Vecinus durante el curso. Este feedback incluye comentarios, sugerencias y recomendaciones proporcionados por el profesor para mejorar el desempeño del grupo en futuras actividades y proyectos.
+
+### Última actualización: 24 de febrero
+
+## 1. Definición del producto
+
+**Análisis de valor:** Se ha realizado un buen trabajo en el análisis del valor aportado por el proyecto, logrando transmitir la utilidad de la herramienta.
+
+**Público objetivo:** Se recomienda focalizar la atención en el tipo de usuario que dé más juego (ya sea el administrador o el propietario). Esto no implica eliminar al otro perfil, sino enfocar la narrativa y el desarrollo hacia el rol principal que aporta más valor.
+
+**Foco en el Core:** En las exposiciones se deben reordenar las prioridades: los casos de uso CORE y diferenciadores deben presentarse siempre antes que las funcionalidades genéricas de la aplicación.
+
+## 2. Análisis de Competidores y Riesgos
+
+**Diferenciación del producto:** Se ha logrado una correcta y clara diferenciación de la propuesta frente a los competidores del mercado.
+
+**Tablas de comparación:** Es necesario mejorar la legibilidad de las matrices de características. Actualmente se utilizan códigos de colores cuyo significado no está especificado; es obligatorio incluir leyendas claras.
+
+**Riesgos Tecnológicos y Legales:** Es un punto crítico y de máxima prioridad estudiar en mayor profundidad la seguridad y la privacidad de los datos. Se debe tener un cuidado especial con el tratamiento legal y técnico que envuelve a las firmas digitales.
+
+## 3. Validación de Mercado y Usuarios Piloto 
+
+**Falta de pilotos:** Es imprescindible contar con una lista clara y concreta de los usuarios piloto que van a probar la aplicación.
+
+**Disponibilidad:** Hay un error de concepto respecto a las pruebas: los usuarios piloto deben estar introducidos en la base de datos desde el primer día para poder operar, no se puede depender de que el login y el registro se desarrollen en el Sprint 2 para darles acceso.
+
+## 4. Estrategia Técnica, Desarrollo y Organización Interna
+
+**Análisis y Sprint 1:** Destaca positivamente el análisis tecnológico realizado por el equipo, así como la correcta y realista planificación del Sprint 1.
+
+**Detalle técnico de implementaciones:** Para las próximas entregas, se exige profundizar mucho más a nivel técnico en cómo se van a implementar funcionalidades complejas como:
+
+    - El sistema y flujo de la firma digital.
+
+    - La tecnología específica que se utilizará para la transcripción de actas.
+
+**Replanificación del Sprint 2:** Se ha detectado una mala planificación de cara al Sprint 2 (relacionada con posponer la integración de los usuarios piloto hasta tener el login/registro). Se debe corregir este enfoque.
+
+**Organización Interna:** Falta mostrar de forma explícita el control de la dedicación de tiempo (horas estimadas frente a las horas reales invertidas por cada miembro del equipo).
+
+## 5. Presentación y comunicación
+
+**Carga visual:** Se ha detectado que algunas diapositivas están sobrecargadas al intentar agrupar demasiado contenido en muy poco espacio. Se debe simplificar, reducir y buscar un diseño más limpio y directo.
+
+**Orden del discurso:** Como se mencionó en la propuesta de valor, la estructura de la presentación debe guiar al espectador desde lo más importante (Casos CORE) hacia los detalles (funcionalidades genéricas), y no al revés.
+
+## 6. Notas de clase
+
+### Semana 1 (05/02)
+
+**Con respecto a la presentación:**
+
+- Mejorar formato visual de presentaciones.
+- Reducir texto: Eliminar repetidos y priorizar lo esencial
+- Definir idea de comienzo potente (hook).
+- Controlar tiempos y lenguaje corporal
+- Adaptar mensaje al público objetivo de cada presentación
+- Preparar estructura fija: Introducción, Problema, Solución, Diferenciación, Tecnología, Plan
+
+**Con respecto a la documentación:**
+
+- Formalizar metodología de recogida de feedback: Documento común y Responsable de apuntar feedback
+- Recoger feedback de: Profesores y Otros grupos
+- Analizar feedback y decidir qué incorporar
+- Registrar: Reparto de responsabilidades, Horas, Evidencias de trabajo
+- Mantener commits claros
+- Usar Clockify: Descripciones detalladas y representativas
+
+**Con respecto a la organización del equipo:**
+
+- Mostrar claramente: Miembros del proyecto y Componentes/roles
+- Redactar y firmar el commitment agreement
+- Registrar evidencias de responsabilidades
+- Permitir movilidad de roles si es necesario
+
+**Con respecto a la preparación del próximo día / entrega:**
+
+- Incorporar todo el feedback recibido
+- Tener clara la estructura final del proyecto
+- Presentar: 
+    * Casos de uso core
+    * Mejorar el análisis de competidores + diferenciación en una tabla comparativa. Dejar claro dónde estamos nosotros (la diferencia con el resto)
+    * Mockups con evidencia diferencial
+    * Stack tecnológico
+    * Análisis de riesgos
+    * Sistemas de despliegue (pros/contras, pago/gratis). Tener en cuenta que son 4 despliegues que deben persistir
+    * Pensar también en la base de datos, en caso de existir, deberá haber hasta 4 (una por despliegue)
+    * Plan para organizar el Sprint 1
+    * Plan para localizar los usuarios piloto
+- Profundizar más en nuestras fortalezas frente al resto de apps (diferenciación)
+- Decidir quién es nuestro cliente objetivo (grandes comunidades, pequeñas, etc.)
+- Focalizar muy bien en cómo llegar hasta el cliente objetivo -> Buscar o destacar las funcionalidades que más les llame la atención, aunque tengamos otras
+- Argumentar bien el tema de las votaciones -> Es una buena funcionalidad pero debemos estudiar el marco legal
+
+**Aspectos a tener en cuenta**
+
+- Habrá un despliegue independiente por cada entregable. Al final del cuatrimestre debemos tener un total de 4 despliegues
+- Si la app tiene base de datos, habrá también 4 independientes
+- Cuándo se despliega no se puede volver a tocar el código. Los bugs se corrigen para la siguiente entrega
+- Cuando se da un dato (ej. "Comentarios malos") debemos decir de dónde hemos sacado ese dato
+- Debatir si conviene más funcionalidad general para mucha gente (cualquier público) o funcionalidad más específica para un público más centrado
+- No presentar aspectos negativos de otras aplicaciones que la nuestra tampoco va a tener
+
+### Semana 2 (12/02)
+
+**Comentarios positivos:**
+
+- Buen análisis de los aspectos de despliegue y todo lo que hemos abordado del coste de la hibernación. 
+
+**Con respecto a la presentación:**
+
+- Es algo muy negativo tener tantísimo texto
+- El tamaño de los mockups es muy pequeño, no se ve. Debemos aprovechar mejor la pantalla
+- Las imágenes más de lo mismo
+- El QR es mala idea, pierde tiempo y la gente deja de prestarte atención
+- Análisis tecnológico: mala presentación. Mostramos mucha información en la presentación que no da tiempo a analizar. RECORDAR, si hay demasiado texto nos dejan de atender. Hay que quitarlo. 
+- Los casos de uso core están bien pero los mockups no los defienden, deben centrarse más en estos y menos en el resto de funcionalidades.
+- En todas las tablas que pongamos debemos resaltar nuestra opción y quitar texto, mucho texto, que no requiera concentración para entenderla.
+- En la planificación del Sprint falta la planificación temporal, aunque luego no se cumpla hay que añadirla
+
+**Con respecto al feedback:**
+
+- Mejorar la presentación
+- Profundizar más en la información que damos con respecto a la IA. Por ejemplo, la IA que usemos, si tiene pricing plan, como se lo cobramos al cliente, etc etc.
+- Defender más la IA, es decir, si es nuestro hecho diferenciable al resto tenemos que destacarlo aún más. Algo que atraiga a los clientes, que hagan que paguen por el producto
+
+**Con respecto a la organización del equipo:**
+
+- Debemos añadir a la presentación los miembros del equipo
+- Debemos añadir también cómo estamos organizando al equipo (Backend, Frontend, ...)
+
+**Con respecto a la preparación del próximo día / entrega:**
+
+- Mejorar las presentaciones
+- Incluir los aspectos del feedback recogido
+- De cara a la siguiente presentación debemos realizar una killer opener, es decir, comenzar la presentación de una forma que atraiga al público
+
+**Aspectos a tener en cuenta**
+
+- Cuando mostramos demasiado información lo mejor es quitar casi todo el texto y tener en un documento formalizada esa información, para asi poder defenderla en el caso que nos pregunten. (Por ejemplo para el análisis tecnológico).
+
+### Semana 3 (19/02), evaluación
+
+**Comentarios positivos:**
+
+- El análisis del valor
+- La diferenciación con los competidores
+- El análisis tecnológico
+- Correcta planificación del Sprint 1
+
+**Con respecto a la presentación:**
+
+- Entrar más en detalle sobre como vamos a implementar la firma digital
+- Entrar más en detalle sobre como vamos a implementar la transcripción de actas en cuanto a la tecnología que vamos a usar
+- En algunas diapositivas hemos intentado meter mucho contenido en muy poco espacio y están un poco sobrecargadas
+- Debemos cambiar el orden de las diapositivas de las funcionalidades porque estamos presentando antes las funcionalidades genéricas que los casos de uso CORE, que deben ir antes
+- En las tablas de características estamos poniendo colores pero no especificando lo que es o significa cada uno
+
+**Con respecto al feedback:**
+
+- Mala planificación del Sprint 2. Hemos indicado que aquí vamos a añadir los usuarios piloto (login y registro), pero estos deben estar en la BD desde el primer día
+- Falta una lista con los usuario piloto
+- Falta la dedicación de tiempo
+- Quizás conviene más centrarse en un tipo de usuario (administrador o propietario). Esto no significa eliminar al otro, sino encaminar la presentación y el proyecto al usuario que nos de más juego
+- Debemos tener mucho cuidado con el tema de la seguridad y privacidad de los datos, y las firmas digitales. Debemos estudiar más en profundidad esto
+
+**Aspectos comentados de forma general**
+
+- Los usuarios piloto deben estar, es muy importante tener una lista detallada de los mismos y un compromiso formal con ellos
+- Hay grupos con análisis tecnológicos muy superficiales. También tenemos que explicar cómo vamos a llevar a cabo los despligues, hacer pruebas previamente, explicar cómo vamos a congelar los despliegues. Además, se da poco detalle sobre el CI/CD que se va a implementar
+- Debemos analizar bien el calendario para los sprint, hay que tener en cuenta que las semanas de feria o semana santa no se trabaja
+- Cuidado con los contenidos frágiles (datos de usuarios, firmas digitales, etc)
+- En cuanto a la presentación del stack tecnológico tenemos libertad
+- En cuanto a la base de datos de conocimiento (la que recoge el feedback), está muy mal gestionada. Debemos usar Docusaurus. Si no se arregla supondrá nota negativa global
+- Ya debemos empezar a desarrollar. Tenemos que elicitar muy bien como vamos a hacer los 5 despliegues
+- Cuando explicamos la metodología de desarrollo que usamos hay que analizarla muy bien, con una visión de detalle de alto nivel
+- En las próximas presentaciones debemos incluir el estado actual del sprint en el que nos encontramos (ej. un burndown)
+- En las próximas presentaciones hay que ir recogiendo los problemas encontrados, las lecciones aprendidas y el plan de contingencia para solventarlos
+- Presentar el equipo, la estructura que tenemos y usamos, y un análisis económico (a nivel de presupuesto, ...)
+- En la siguiente presentación, 1 sola diapositiva para el cumplimiento del commitment agreement y el informe de rendimiento individual (clockify)
+- En la siguiente presentación, 1 sola diapositiva para el análisis de competidores (interesa ponerla por el principio)
