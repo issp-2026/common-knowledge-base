@@ -58,8 +58,8 @@ Para la próxima presentación, estos puntos son de cumplimiento  **obligatorio*
 **Con respecto a la presentación:**
 - Falta un Killer Opener que capte la atención desde el inicio.
 - Problemas de legibilidad visual (contraste en logos, tablas de competidores poco claras).
-- Se debe reordenar la narrativa: primero competidores → después mockups para contextualizar la solución.
-- Falta coordinación y ensayo; la exposición debe fluir sin interrupciones.
+- Se debe reordenar las diapositivas: primero competidores → después mockups para contextualizar la solución.
+- Falta coordinación y ensayo. La exposición debe fluir sin interrupciones.
 - Integrar mejor los mockups dentro de la presentación en lugar de mostrarlos de forma aislada.
   
 **Con respecto a los competidores:**
@@ -67,6 +67,7 @@ Para la próxima presentación, estos puntos son de cumplimiento  **obligatorio*
 - Las funcionalidades actuales (navegación, tags, compartir rutas) no son suficientemente diferenciales.
 - Es obligatorio justificar de forma clara por qué un usuario elegiría AURA.
 - La estrategia recomendada es especializarse (nicho, ciudad o perfil profesional) para competir por foco y no por amplitud.
+  
 **Con respecto a las herramientas**:
 - Central el foco en los riesgos que supone el uso de las herramientas.
 - Herramientas: faltan añadir herramientas de documentación, gestor código, tiempo, etc. (OneDrive, Discord, Clockify...) 
@@ -74,7 +75,7 @@ Para la próxima presentación, estos puntos son de cumplimiento  **obligatorio*
 **Con respecto a los sprints**:
 - El Sprint 1 debe centrarse únicamente en el core diferencial: algoritmo de generación de rutas.
 - Eliminar desarrollo de elementos no críticos (login, extras, features secundarias).
-- Limpiar el backlog técnico para enfocarse en el valor real del producto.
+- Crear un product backlog para enfocarse en el valor real del producto.
 - La planificación técnica debe demostrar claramente cómo se construye la diferenciación.
   
 **Con respecto a los usuarios piloto:**
