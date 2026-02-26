@@ -5,49 +5,59 @@ description: Feedback proporcionado al grupo E Vecinus.
 
 En esta página se encuentra el feedback recogido por el grupo E - Vecinus durante el curso. Este feedback incluye comentarios, sugerencias y recomendaciones proporcionados por el profesor para mejorar el desempeño del grupo en futuras actividades y proyectos.
 
-### Última actualización: 24 de febrero
+### Última actualización: 26 de febrero
 
-## 1. Definición del producto
+## 1. Definición del producto y análisis del valor
 
-**Análisis de valor:** Se ha realizado un buen trabajo en el análisis del valor aportado por el proyecto, logrando transmitir la utilidad de la herramienta.
+**Análisis de valor y Foco Core:** Se ha realizado un buen trabajo transmitiendo la utilidad de la herramienta. No obstante, en las exposiciones se deben reordenar las prioridades: los casos de uso CORE y diferenciadores deben presentarse siempre antes que las funcionalidades genéricas.
 
-**Público objetivo:** Se recomienda focalizar la atención en el tipo de usuario que dé más juego (ya sea el administrador o el propietario). Esto no implica eliminar al otro perfil, sino enfocar la narrativa y el desarrollo hacia el rol principal que aporta más valor.
+**Público objetivo:** Se recomienda focalizar la atención y la narrativa en el tipo de usuario que dé más juego y aporte más valor (ya sea el administrador o el propietario), sin llegar a eliminar al otro perfil.
 
-**Foco en el Core:** En las exposiciones se deben reordenar las prioridades: los casos de uso CORE y diferenciadores deben presentarse siempre antes que las funcionalidades genéricas de la aplicación.
+**El rol de la IA (Human in the loop):** Es vital cuidar el lenguaje y la instrumentación de los prompts. Debe quedar meridianamente claro que la IA es un asistente, pero la decisión final siempre recae sobre el humano.
 
-## 2. Análisis de Competidores y Riesgos
+**Evolución del producto:** A medida que avanza el proyecto, se debe priorizar mostrar el estado de desarrollo real de la aplicación, sustituyendo las presentaciones basadas exclusivamente en mockups.
 
-**Diferenciación del producto:** Se ha logrado una correcta y clara diferenciación de la propuesta frente a los competidores del mercado.
+## 2. Análisis Estratégico, Riesgos y Viabilidad Económica
 
-**Tablas de comparación:** Es necesario mejorar la legibilidad de las matrices de características. Actualmente se utilizan códigos de colores cuyo significado no está especificado; es obligatorio incluir leyendas claras.
+**Diferenciación:** Se ha logrado una correcta y clara diferenciación de la propuesta frente a los competidores del mercado.
 
-**Riesgos Tecnológicos y Legales:** Es un punto crítico y de máxima prioridad estudiar en mayor profundidad la seguridad y la privacidad de los datos. Se debe tener un cuidado especial con el tratamiento legal y técnico que envuelve a las firmas digitales.
+**Análisis de Costes Real (Visión Empresarial):** Es obligatorio presentar un análisis financiero realista, asumiendo el rol de empresa y no de estudiantes. Se deben contemplar los costes de licencias y planes de pago reales. Se valora el uso de modelos freemium como la estrategia más rentable.
+
+**Presupuesto (CapEx y OpEx):** El análisis de costes debe desglosarse claramente. Hay que incluir el CapEx (gastos de capital/personal) y el OpEx (gastos operativos y de desarrollo, incluyendo costes de plataformas como GitHub).
+
+**Riesgos e Infraestructura:** Es crítico y de máxima prioridad detallar la infraestructura tecnológica y el presupuesto asociado. A nivel legal y técnico, se debe profundizar rigurosamente en la seguridad, la privacidad de los datos y el tratamiento de las firmas digitales.
 
 ## 3. Validación de Mercado y Usuarios Piloto 
 
-**Falta de pilotos:** Es imprescindible contar con una lista clara y concreta de los usuarios piloto que van a probar la aplicación.
-
-**Disponibilidad:** Hay un error de concepto respecto a las pruebas: los usuarios piloto deben estar introducidos en la base de datos desde el primer día para poder operar, no se puede depender de que el login y el registro se desarrollen en el Sprint 2 para darles acceso.
+**Usuarios pilotos concretos:** Es imprescindible contar con una lista clara y firme de los usuarios piloto que van a probar la aplicación.
 
 ## 4. Estrategia Técnica, Desarrollo y Organización Interna
 
-**Análisis y Sprint 1:** Destaca positivamente el análisis tecnológico realizado por el equipo, así como la correcta y realista planificación del Sprint 1.
+**CI/CD y Desarrollo:** Se valora muy positivamente la implementación y configuración del entorno CI/CD. Asimismo, la planificación inicial del Sprint 1 ha sido correcta y realista.
 
-**Detalle técnico de implementaciones:** Para las próximas entregas, se exige profundizar mucho más a nivel técnico en cómo se van a implementar funcionalidades complejas como:
+**Balance de la presentación técnica:** La exposición debe tener un enfoque claro hacia el desarrollo. Actualmente hay un desbalance con demasiados mockups; se debe dar mucho más peso al análisis del trabajo real y del estado del Sprint.
 
-    - El sistema y flujo de la firma digital.
+**Detalle técnico de implementaciones:** Se exige profundizar a nivel técnico en cómo se implementará el sistema y flujo de la firma digital y qué tecnología se usará para la transcripción de actas.
 
-    - La tecnología específica que se utilizará para la transcripción de actas.
+**Seguimiento y Organización (Clockify):** La diapositiva de control de tiempo debe mostrar explícitamente y de forma individual las horas reales invertidas por cada miembro frente a la desviación de la estimación inicial.
 
-**Replanificación del Sprint 2:** Se ha detectado una mala planificación de cara al Sprint 2 (relacionada con posponer la integración de los usuarios piloto hasta tener el login/registro). Se debe corregir este enfoque.
-
-**Organización Interna:** Falta mostrar de forma explícita el control de la dedicación de tiempo (horas estimadas frente a las horas reales invertidas por cada miembro del equipo).
+**Estructura del equipo:** Se debe separar la explicación de la metodología de la presentación de los miembros. La estructura actual del equipo es compleja de entender y debe desglosarse de forma más sencilla.
 
 ## 5. Presentación y comunicación
 
-**Carga visual:** Se ha detectado que algunas diapositivas están sobrecargadas al intentar agrupar demasiado contenido en muy poco espacio. Se debe simplificar, reducir y buscar un diseño más limpio y directo.
+**Oratoria y Puesta en Escena:** Se recomienda adoptar un ritmo más pausado al hablar, llevar vestimenta adecuada y mejorar la capacidad de síntesis (transmitir más información en menos frases, apoyándose en el uso de palabras clave).
 
-**Orden del discurso:** Como se mencionó en la propuesta de valor, la estructura de la presentación debe guiar al espectador desde lo más importante (Casos CORE) hacia los detalles (funcionalidades genéricas), y no al revés.
+**Diseño e Imagen Corporativa:** Falta homogeneidad y consistencia en la presentación; la mezcla de estilos da la sensación de haberse realizado con prisa. Se debe unificar la paleta de colores y el estilo general.
+
+**Carga visual y Estructura:** Se deben simplificar las diapositivas sobrecargadas. El discurso debe ir siempre de lo más importante (CORE) a los detalles.
+
+Ajustes específicos en diapositivas:
+
+- **Tablas de comparación:** Obligatorio incluir una leyenda que explique qué significa cada color. Se aconseja cambiar los tonos amarillos por rojos por cuestiones de estética y legibilidad (y eliminar colores llamativos que sobren).
+
+- **Commitment Agreement:** Eliminar la diapositiva inicial del acuerdo de compromiso, ya que sobra en este punto.
+
+- **Presentación del equipo:** Utilizar fotografías de los miembros (estilo orla, referenciando a buenas prácticas de otros grupos) para hacerla más visual y cercana.
 
 ## 6. Notas de clase
 
@@ -184,3 +194,35 @@ En esta página se encuentra el feedback recogido por el grupo E - Vecinus duran
 - Presentar el equipo, la estructura que tenemos y usamos, y un análisis económico (a nivel de presupuesto, ...)
 - En la siguiente presentación, 1 sola diapositiva para el cumplimiento del commitment agreement y el informe de rendimiento individual (clockify)
 - En la siguiente presentación, 1 sola diapositiva para el análisis de competidores (interesa ponerla por el principio)
+
+
+### Semana 4 (26/02), Sprint 1
+
+**Aspector positivos:**
+
+- CI/CD implementado es correcto y bueno
+
+**Con respecto a la forma de presentar:**
+
+- Se recomiendo presentar con más calma, ir más lento
+- Se recomienda llevar una vestimenta adecuada
+- Decir más en menos frases -> usar palabras clave.
+- Enfocar la presentación al desarollo.
+
+**Con respecto a la presentación:**
+
+- En las tablas, especificar lo que significa cada color. Usar rojo en lugar de amarillo en tablas.
+- Sobra la primera diapositiva de commitment agreement, hay que quitarla
+- Dividir metodología y miembros de equipo para que se entienda mejor -> poner fotografías del equipo.
+- La diapositiva de la estructura del equipo es compleja y no se entiende. Desglosarla y ponerla, por ejemplo, como la tiene el otro grupo con las fotos de la orla
+- Debe haber mayor homogeneidad y consistencia en la presentación y la imagen corporativa. Hay colores llamativos en tablas que sobran por ejemplo.
+- Diferencia en estilos entre diapositivas -> estilo y paleta debe ser uniforme, están como si se hubiesen hecho con prisa.
+- La diapositiva del clockify debe mostrar las horas de cada uno individualmente frente a la desviación de tiempo estimada.
+- Que decida el humano -> instrumentar prompts para que el mensaje sea ese, que no sea la IA -> cuidar lenguaje.
+- No se ve ni los riesgos, ni el presupuesto, ni la parte de infraestructura.
+- Añadir análisis de coste de GitHub -> gastos de operación y desarrollo. CapEX -> personal, OpEX -> desarrollo.
+- Realizar un análisis real, no educativo. Tanto en tiempo, como en costes, etc.
+- Análisis de herramientas -> usar modelos freemium es lo más rentable normalmente.
+- Debemos ir incluyendo como va el desarrollo de la app en lugar de mockups siempre que sea posible
+- Desbalanceado entre mockups y los análisis de trabajo y Sprint. Hay muchas presentaciones de mockups
+- Análisis de costes teniendo en cuenta GASTOS REALES (licencias, planes, sin tener en cuenta que somos estudiantes, sino como empresa)
