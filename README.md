@@ -3,7 +3,7 @@
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
 Its is deployed in:
-https://issp-2026.github.io/common-knowledge-base/
+https://ispp-2026.github.io/common-knowledge-base/
 
 ## Installation
 
