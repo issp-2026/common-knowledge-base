@@ -25,6 +25,7 @@
 - [ ] **Idea clara**
 - [ ] **Stack Tecnológico**
 - [ ] **Riesgos Tecnológicos**
+- [ ] **Despliegues**
 - [ ] **Demo de los casos de uso**
 - [ ] **Adaptación de Scrum**
 - [ ] **ALM (Alto nivel)**
