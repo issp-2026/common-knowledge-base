@@ -43,7 +43,7 @@ En esta página se encuentra el feedback recogido por el grupo A - Rooma durante
 
 * **Todos desarrollan:** Todo el grupo debe aportar al código; evitar comunicar que algunos miembros “solo gestionan”.
 
-## 7. Propuestas de mejora (18/02)
+## 7. Propuestas de mejora (19/02)
 
 * **Búsqueda de piso en grupo:** Posibilidad de unir varios usuarios en un “pack”/lista conjunta para una solicitud.
 * **Gestión de referencias:** Cartas de recomendación, nómina y contactos de otros caseros como información privada para el casero.
@@ -70,7 +70,7 @@ En esta página se encuentra el feedback recogido por el grupo A - Rooma durante
 - Añadir tarea de revisión de la presentación.
 - Generar interés destacando puntos fuertes de Rooma.
 
-### Semana 3 (18/02), evaluación
+### Semana 3 (19/02), evaluación
 
 - Explicar Rooma antes que los desarrolladores; todas las diapositivas con título.
 - Unificar tipografía, tamaños y formato de tablas.
@@ -86,3 +86,13 @@ En esta página se encuentra el feedback recogido por el grupo A - Rooma durante
 - La base de datos común va mal.
 - Punto fuerte destacado: casos de uso con mockups, muy bien valorados.
 - Propuestas: búsqueda en grupo de piso, gestión de referencias y comunicación entre caseros.
+
+### Semana 4 (26/02), evaluación
+
+- Muy buena homogeneidad en la presentación con la marca corporativa
+- Hilo conductor de la presentación confuso ya que se van dando saltos todo el rato
+- Dar más detalle del caso de uso de los pagos
+- En el análisis de coste distinguir bien entre capex y opex
+- En el análisis de coste tener en cuenta los costos del equipo de soporte en el caso de externalizar la resolución de incidencias
+- En el análisis de coste debe aparecer un análisis según el volumen de usuarios (usar tabla comparativa)
+- En el análisis del commitment agreement usar en vez de horas de una semana exacta, usar las horas totales y la media por semana por integrante
