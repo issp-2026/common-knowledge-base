@@ -18,7 +18,7 @@ La organización de tiempos de los turnos será la siguiente:
 |11:33 - 11:48| Feedback del segundo grupo |
 |11:49 - 12:05| Presentación tercer grupo |
 |12:05 - 12:20| Feedback del tercer grupo|
-**|12:20 - 12:40| Descanso |**
+|**12:20 - 12:40**| **Descanso** |
 |12:40 - 12:45| Tiempo de gracia |
 |12:45 - 13:01| Presentación cuarto grupo |
 |13:01 - 13:21| Presentación cuarto grupo |
