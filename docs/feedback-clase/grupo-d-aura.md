@@ -120,3 +120,48 @@ Para la próxima presentación, estos puntos son de cumplimiento  **obligatorio*
 - Análisis de alto nivel el presupuesto 
 - Cumplimiento del acuerdo grupal, asumimos que son 10 horas y cuanto ha hecho a la semana por persona (mirar en clockify)). Contemplar desviaciones.
 
+  
+### Semana 4 (28/02),
+**A nivel general:**
+- La base de conomicimiento común tiene que estar dividida por categorías para su fácil uso.
+- Funcionalidades sugeridas:
+      - Incorporación datos útiles, curiosidad o datos adiciones a las paradas de las rutas enviadas por la IA. 
+      - Un chat efímero entre los turistas por si tiene que coordinar al grupo.
+- Emplear un vocabulario más técnico.
+- Incorporar además de pruebas unitarias, E2E y de integración.
+  
+**Con respecto a la presentación:**
+- Presentación efectiva.
+- Crear un flujo como si otra persona te estuviera preguntando.
+- Cuidar la asimetrá (Colores, títulos, etc)
+- Aprobechar toda el ancho de la diapositiva.
+- No poner más de un titulo, innecesario poner demasiados titulos dando información que se dice hablando.
+- Tablas de las lecciones aprendidas, sin título y no se ve.
+
+**Con respecto a los competidores**:
+- Los competidores en una sola tabla desplazable se ve bien.
+
+**Con respecto a las herramientas**:
+- No tenemos feedback sobre el stack tecnólogico.
+
+**Con respecto a los sprints**:
+ - Metodología bien explicado con la infográfia utilizada, pero dar información de las PRs, nº de ramas, nº de líneas, nº de desarrolladores trabajamdo,etc. 
+ - CI/CD muy bien. Si solo tenemos pruebas unitarias, explorar endtoend. 
+
+**Con respecto a los usuarios piloto:**
+- En la recogida de feedback, es recomendable incluir como medios de contacto las llamadas telefónicas o reuniones, ya que generan mayor confianza. Además, a través del lenguaje no verbal y el tono de voz se obtiene información muy valiosa que no siempre se percibe en otros canales.
+
+**Con respecto a los CA:**
+- Commitment agreement no se visualiza correctamente, sería recomendable utilizar un diagrama de barras.
+- En el diagrama de barra si no caben los nombres usar siglas.
+- Se podría añadir una línea roja que indique el mínimo de horas a cumplir, así se verían claramente las desviaciones por encima y por     debajo del objetivo.
+- Es importante señalar si en este sprint se están cumpliendo las horas establecidas y también debe indicarse si hay desviaciones,         aportar una justificación.
+- Si algún miembro ha dedicado menos horas, conviene explicar en qué ha repercutido.
+- Es tan importante cumplir con las horas previstas como no excederse, esto es un indica una mala estimación o un alcance mal definido.
+- Crear diagramas de todo lo que llevamos trabajado hasta ahora, como el del sprint actual.
+
+**Con respecto a la Gestión de costes:**
+- Indicar claramente el intervalo temporal al que hace referencia el presupuesto, especificando si se trata de una estimación hasta el     final del proyecto.
+- Es importante diferenciar qué gastos ya son reales y cuáles son estimaciones futuras.
+- El apartado de presupuesto debe estar claramente estructurado y por categorías (CAPEX Y OPEX).
+- Para los costes de personal usar los costes de contratación.
