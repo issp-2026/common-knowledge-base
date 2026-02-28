@@ -87,7 +87,7 @@ En esta página se encuentra el feedback recogido por el grupo A - Rooma durante
 - Punto fuerte destacado: casos de uso con mockups, muy bien valorados.
 - Propuestas: búsqueda en grupo de piso, gestión de referencias y comunicación entre caseros.
 
-### Semana 4 (26/02), evaluación
+### Semana 4 (26/02)
 
 - Muy buena homogeneidad en la presentación con la marca corporativa
 - Hilo conductor de la presentación confuso ya que se van dando saltos todo el rato
