@@ -24,6 +24,8 @@ En esta página se encuentra el feedback recogido por el grupo B - Cerebrus dura
 * **Objetivo Cuantitativo:** Alcanzar una lista de **10-12 usuarios piloto comprometidos** (mínimo), idealmente más.
 * **Gestión de Pilotos:** Se requiere un plan concreto: calendario de reuniones, registro de qué se les ha enseñado (mockups/demos) y feedback explícito sobre si estarían dispuestos a pagar.
 * **Diversidad de Perfiles:** Al tener distintos roles (alumno, profesor, director), se deben buscar pilotos para cada categoría. El diseño para profesores/directores debe ser profesional y menos gamificado que el del alumno.
+* **Imporancia de la comunicación:** Se requiere comunicación en vivo con ellos ya que la expresión corporal puede ayudarnos a recoger mejor feedback
+* **Importancia del proceso de recogida de feedback:** Los usuarios piloto deben de tener muy claro cual es el proceso de recogida de feedback, y nosotros debemos de comunicarselo claramente.
 
 ## 4. Core Técnico y Estado del Desarrollo
 
@@ -37,7 +39,7 @@ Para la próxima presentación, estos puntos son de cumplimiento  **obligatorio*
 ## 5. Presentación
 
 * **Formato de Diapositivas:** Menos texto y más gráficos/metáforas visuales. Si hay párrafos, deben estar sincronizados con el discurso (leer textualmente para enfatizar).
-* **Killer Opener:** La siguiente presentación debe iniciar con un gancho corto y potente que capte la atención desde el segundo uno.
+* **Killer Opener:** La siguiente presentación debe iniciar con un gancho corto y potente que capte la atención desde el segundo uno. Debe de estar relacionado con el tema de exposición.
 * **Dinámica:** Mejorar la fluidez en los cambios de ponente y evitar ir demasiado rápido (gestión del tiempo).
 * **Imagen Corporativa:** Mantener la estética, pero incluir eslogan y cuidar la visibilidad de los elementos clave.
 * A nivel general seguir exponiendo como hasta ahora
@@ -46,6 +48,7 @@ Para la próxima presentación, estos puntos son de cumplimiento  **obligatorio*
 
 * **Commitment Agreement:** Mostrar de forma transparente las horas invertidas vs. estimadas por cada miembro. La desviación debe ser visible.
 * **Contribución al Código:** Se reitera que **todos** los miembros (incluyendo responsables de marketing o documentación) deben realizar commits al repositorio.
+* **Cumplimiento del commitment agreement** Es importante además de decir que contiene el acuerdo, cómo se está cumpliendo y cómo nos estamos asegurando de que se cumpla.
 
 ## 7. Notas de clase
 
@@ -156,3 +159,61 @@ Para la próxima presentación, estos puntos son de cumplimiento  **obligatorio*
 * Análisis más robusto sobre si los usuarios están dispuestos a pagar o no.
 * Pocos usuarios pilotos. Falta encontrar más y hacer un compromiso formal con ellos. Colocar esfuerzo en esto.
 * Debemos de dar detalles concretos de aquello que nos diferencia del resto (por ejemplo, X hace esto, pero nosotros hacemos esto mejor)
+
+
+### Semana 3 (26/02), evaluación
+
+**Obligatorio para la siguiente clase (05/03) :**
+
+* Killer opener (fade/dissolve)
+* Stack tecnológico
+* Análisis de riesgos
+* Proceso de despliegue
+* Demo de casos de uso core
+* Visión de alto nivel de la adaptación de Scrum realizada
+* Visión de alto nivel del ALM (con CI/CD)
+* Revisión del sprint 1: análisis de resultados frente a lo previsto, rendimiento del equipo y cómo se está midiendo dicho rendimiento
+* Planificación del sprint 2: objetivo del sprint y si ha habido alguna replanificación
+* Problemas encontrados y su estado (solucionado, en curso, etc.), medidas tomadas para resolverlos, plan de contingencia y métricas para verificar que las medidas están funcionando
+* Listado de usuarios piloto, plan de expansión y mecanismo de recogida de feedback
+* Análisis económico y ejecución presupuestaria
+* Análisis competitivo: comparativa de alto nivel con competidores y diferenciadores clave
+* Una o dos diapositivas sobre dedicación real frente a la estimada y grado de cumplimiento del commitment agreement.
+* Presentación más atractiva y atrayente, había veces que costaba echar cuenta a la presentación
+
+**Con respecto a la presentación:**
+* Hablar más alto y controlar mejor el tiempo
+* Killer opener más relacionado con el proyecto
+* Se ve bien a nivel corporativo
+* No poner tantas formas de señalar el avance. Quitar poorcentajes y secciones ya que sobrecarga mucho las diapositivas
+* Mejorar la línea conductora de la presentación, empezar primero con idea princiàl y luego ir al detalle.
+* Hilo conductor de las presentaciones demasiado mal hecho a nivel general. Debemos de pensar como tener varios bloques grandes temáticos y que cada uno responda a una pregunta, focalizando así los bloques. Ver, también, en que orden debería de aparecer esas preguntas para que otra persona lo entienda.
+* Propuesta para hacer una actividad de team building
+
+**Con respecto al análisis económico**
+* En lo referente al coste de personal se debe de diferenciar entre: salario bruto, salario líquido y coste de contratación. Siendo coste de contratación lo que debemos de tener en cuenta a la hora de calcular el presupuesto.
+* Hay que ver el coste de lo de construir y el coste de lo operación (son distintos).
+* Ver diversos escenarios, ya que no es lo mismo dar soporte a 1000 usuarios q a 100000.
+* Nuestra monetización es muy superficial. Ver a cuanto tiempo se prevee, poner horizonte temporal.
+* Dar más detalle. Decir cuanto tiempo tengo, cuantos recursos y como se van a gestionar.
+* Tener en cuneta CapEX y OpEX.
+
+**Con respecto al ALM**
+* Demasiadas diapositivas con muy poca profuncidad. Las imágenes no daban apoyo realmente de lo que se exponía.
+* Debe de ser más concreto. No hace falta una sección expecífica si ya se cuenta implícito en otras partes de la presentación.
+* Planificación: no debemos ver todo tan general, debemos ver el tiempo y los recursos que tenemos y desde ahí ver el orden en el que hacemos las cosas
+
+**Con respecto a los usuarios piloto**
+* Es muy interesante tener contacto en vivo con ellos aparte de la comunicación telemática. El lenguaje corporal es importante.
+* Deben de tener claro cual es el proceso de recogida de feedback.
+* Asegurarnos de que tienen un compromiso 100% real de testear la aplicación.
+* Expecificar como nos vamos a comunicar con ellos.
+
+**Otras anotaciones**
+* Mockups demasiado superficiales. se debe de decir cuales son los elementos diferenciadores que nos aportan valor.
+* Decir como ha afectado al proyecto que la gente no haya llegado al mínimo de horas requerido.
+* Hacer estadísticas de profesor que nos diferencien más de los demás.
+* Definición de características muy superficial. Decir porque nuestra propuesta presenta más variedad con respecto al resto.
+* Detallas que nos da la IA como diferenciador.
+* Se deben de mencionar las personas concretas del grupo y sus roles
+* 
