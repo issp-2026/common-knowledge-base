@@ -6,5 +6,5 @@
   * Se debe de aclarar como es la comunicación interna del equipo.
 
   ## Feedback del día 19/02
-  * Esplicar primero la idea de negocio antes de presentar a los desarrolladores.
+  * Explicar primero la idea de negocio antes de presentar a los desarrolladores.
   * Es aconsejable hacer un Team Building, con el objetivo de fomentar el "buen rollo" ante los desajustes habituales del trabajo.
